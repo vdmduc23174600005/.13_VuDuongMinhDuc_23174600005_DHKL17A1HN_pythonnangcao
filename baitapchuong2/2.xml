@@ -1,0 +1,23 @@
+<Students>
+    <Student>
+        <StudentID>SV001</StudentID>
+        <Name>Nguyễn Văn Nam</Name>
+        <BirthYear>2000</BirthYear>
+        <Class>12A1</Class>
+        <Gender>Nam</Gender>
+    </Student>
+    <Student>
+        <StudentID>SV002</StudentID>
+        <Name>Trần Thị Bình</Name>
+        <BirthYear>2001</BirthYear>
+        <Class>12A2</Class>
+        <Gender>Nữ</Gender>
+    </Student>
+    <Student>
+        <StudentID>SV003</StudentID>
+        <Name>Phạm Văn Cảnh</Name>
+        <BirthYear>1999</BirthYear>
+        <Class>12A3</Class>
+        <Gender>Nam</Gender>
+    </Student>
+</Students>
