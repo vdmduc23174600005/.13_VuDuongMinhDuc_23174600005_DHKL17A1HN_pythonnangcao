@@ -1,0 +1,23 @@
+{
+    "employees": [
+      {
+        "id": 1,
+        "name": "John Doe",
+        "position": "Software Engineer",
+        "salary": 75000,
+        "skills": ["Python", "Java", "SQL"]
+      },
+      {
+        "id": 2,
+        "name": "Jane Smith",
+        "position": "Data Scientist",
+        "salary": 85000,
+        "skills": ["Machine Learning", "R", "Data Visualization"]
+      }
+    ],
+    "company": {
+      "name": "Tech Solutions",
+      "location": "Hanoi, Vietnam",
+      "founded": 2010
+    }
+  } 
