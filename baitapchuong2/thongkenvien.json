@@ -1,0 +1,23 @@
+{
+    "Ten cong ty": "Công ty TNHH Dat Viet",
+    "Dia chi": "abc Giai Phong - Ha Noi",
+    "Thong ke nhan vien": "-----THONG KE NHAN VIEN-----",
+    "nhanVien": [
+        {
+            "Ten don vi": "Don vi A1",
+            "So nhan vien": 21
+        },
+        {
+            "Ten don vi": "Don vi A2",
+            "So nhan vien": 28
+        },
+        {
+            "Ten don vi": "Don vi A3",
+            "So nhan vien": 25
+        },
+        {
+            "Ten don vi": "Don vi A4",
+            "So nhan vien": 26
+        }
+    ]
+}
