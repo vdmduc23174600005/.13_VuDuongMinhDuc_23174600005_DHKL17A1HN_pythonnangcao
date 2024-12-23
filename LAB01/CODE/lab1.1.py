@@ -20,7 +20,7 @@ class XMLReader:
 
                 
 #Sử dụng lớp XMLReader
-path ='./DATA//products.xml'
+path ='C:\Users\Admin\Downloads\DHKL17A1HN\LAB01\DATA\products.xml'
 reader = XMLReader(path)
 reader.read_xml()
 reader.display_data()
