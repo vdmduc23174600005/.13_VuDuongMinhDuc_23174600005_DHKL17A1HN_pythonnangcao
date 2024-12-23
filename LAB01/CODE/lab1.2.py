@@ -14,7 +14,7 @@ class JSONReader:
  Address:{user['address']}")
                 
 # Sử dụng lớp JSONReader
-path = './DATA//users.json'
+path = 'C:\Users\Admin\Downloads\DHKL17A1HN\LAB01\DATA\users.json'
 reader = JSONReader(path)
 reader.read_json()
 reader.display_data()
